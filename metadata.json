@@ -1,0 +1,5 @@
+{
+  "name": "GeoToledo Visualizer",
+  "description": "High-performance geospatial visualization tool for IBGE coordinate data (Toledo, PR). Optimized for rendering 100k+ points using Canvas.",
+  "requestFramePermissions": []
+}
